@@ -658,9 +658,8 @@ h6 {
         padding: 5px 15px;
         border: 1px double #f4efe1; }
   .post .post-content table {
-    min-width: 61.8%;
+    width: 100%;
     max-width: 100%;
-    margin: 0px auto;
     border-spacing: 0;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.125); }
     .post .post-content table thead {
